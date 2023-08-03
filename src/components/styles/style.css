@@ -1,6 +1,6 @@
 
 .background {
-  background-image: url(E:\vue-projects\topkek\src\components\images\1664061414_18-damion-club-p-boloto-shreka-fon-instagram-21.jpg);
+  background-image: url(../images/1664061414_18-damion-club-p-boloto-shreka-fon-instagram-21.jpg);
   background-size: cover;
   width: 100%;
   height: auto;
@@ -10,7 +10,7 @@
   height: 930px;
   left: 0%;
   bottom: 0%;
-  background-image: url(E:\vue-projects\topkek\src\components\images\proper-shrek.png);
+  background-image: url(../images/proper-shrek.png);
   position: absolute;
   display: none;
   /* background-image: url(E:\vue-projects\topkek\src\components\images\proper-shrek.png);

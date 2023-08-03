@@ -1,5 +1,5 @@
 <template>
-    <h2 style="color: red">Work in progress</h2>
+    <h2 style="color: red"> where's page? </h2>
 </template>
 
 <script>
