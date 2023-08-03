@@ -1,0 +1,45 @@
+
+.background {
+  background-image: url(E:\vue-projects\topkek\src\components\images\1664061414_18-damion-club-p-boloto-shreka-fon-instagram-21.jpg);
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+.kek {
+  width: 1920px;
+  height: 930px;
+  left: 0%;
+  bottom: 0%;
+  background-image: url(E:\vue-projects\topkek\src\components\images\proper-shrek.png);
+  position: absolute;
+  display: none;
+  /* background-image: url(E:\vue-projects\topkek\src\components\images\proper-shrek.png);
+  position: absolute;
+  top: 0%;
+  left: 0%; */
+}
+.vid1 {
+  /* display: none; */
+  position: absolute;
+  top: 30%;
+  left: 6%;
+  width: 480;
+  height: 270;
+}
+.vid2 {
+  /* display: none; */
+  position: absolute;
+  top: 30%;
+  right: 6%;
+  width: 270;
+  height: 480;
+}
+.text {
+  color:antiquewhite;
+  position: absolute;
+  left: 40%;
+  top: 9%;
+  font-size: 50px;
+  display: none;
+}
+/* 16/9 для видео */
